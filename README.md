@@ -43,3 +43,7 @@ Provide a detailed representation of the functions performed by the system in a 
 - **User Interface**: Allows users to register, login, consult doctors, receive e-prescriptions, and order medicines.
 - **Doctor Interface**: Enables doctors to update availability, consult patients, and send prescriptions.
 
+## Acknowledgments
+
+This project was developed as part of a Software Design Workshop conducted by the Interdisciplinary Programme in Educational Technology, IIT Bombay from 16th Dec 2019 to 20th Dec 2019. Additionally, it was part of a 15-day internship at SIES Graduate School of Technology from 16th Dec to 4th Jan 2019, where the project titled E-Healthcare System was successfully completed.
+
